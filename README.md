@@ -1,6 +1,8 @@
 ----------------------------------------
-# SkyUID Generator GUI - Version 1.0
+# SkyUID Generator GUI (SSA - SSC) - Version 1.0
 ----------------------------------------
+
+*Disclaimer: **This script won't work for Imaginators dumps, only from SSA to SSC.**
 
 This is a python GUI app that can create Skylander dumps, adjusted for a specific UID.
 
