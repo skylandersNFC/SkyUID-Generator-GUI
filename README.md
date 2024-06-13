@@ -15,6 +15,18 @@ The skylanders listed in the dropdown are from the "Skylanders Ultimate NFC Pack
 
 ----------------------------------------
 
+![01. SkyUID-Generator-GUI](https://raw.githubusercontent.com/t3hsuppli3r/SkyUID-Generator-GUI/main/img/01.%20SkyUID-Generator-GUI.jpg)
+
+![02. UID and Dumps Dropdown](https://raw.githubusercontent.com/t3hsuppli3r/SkyUID-Generator-GUI/main/img/02.%20UID%20and%20Dumps%20Dropdown.jpg)
+
+![03. Dump Selected](https://raw.githubusercontent.com/t3hsuppli3r/SkyUID-Generator-GUI/main/img/03.%20Dump%20Selected.jpg)
+
+![04. Generating Dump with Specific UID](https://raw.githubusercontent.com/t3hsuppli3r/SkyUID-Generator-GUI/main/img/04.%20Generating%20Dump%20with%20Specific%20UID.jpg)
+
+![05. Dump Preview inside HxD](https://raw.githubusercontent.com/t3hsuppli3r/SkyUID-Generator-GUI/main/img/05.%20Dump%20Preview%20inside%20HxD.jpg)
+
+----------------------------------------
+
 ### Special thanks to:
 
 >[A crushing individual from Discord]() - who refactored the code, added UI and everything
