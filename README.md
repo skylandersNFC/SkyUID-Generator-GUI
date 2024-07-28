@@ -34,20 +34,22 @@ It's the same thing.
 ![01. SkyUID-Generator-GUI](https://raw.githubusercontent.com/t3hsuppli3r/SkyUID-Generator-GUI/main/img/01.%20SkyUID-Generator-GUI.jpg)
 
 8. On the first "UID" field, you only need to provide your card UID in order for the script to generate a proper Skylander dump for it.
-You can get a UID of a card by just pressing it agains the reader. That's the first thing it will tell you.
 ![03. Dump Selected](https://raw.githubusercontent.com/t3hsuppli3r/SkyUID-Generator-GUI/main/img/03.%20Dump%20Selected.jpg)
 
-9. On the second field you need to pick a Skylander from the dropdown menu. The skylanders listed in the dropdown are from the "[Skylanders Ultimate NFC Pack](https://docs.google.com/document/d/1M3CXm2UcXLo1kuhYmAAtitfPJUJoyL47Ey95BYIt-Z0/edit?usp=sharing)" (V5), so pretty much the best dumps out there you can find.
+9. You can get a UID of a card by just placing it on the reader and pressing "READ TAG". That's the first thing it will tell you. The UID in this examle is different from the UID in the field, but thats just an example. Also remove any spaces from the UID so its "EF844A3E" (example)
+![00. How to get UID with MWT](https://github.com/skylandersNFC/SkyUID-Generator-GUI/blob/main/img/00.%20How%20to%20get%20UID%20with%20MWT.jpg)
+
+10. On the second field you need to pick a Skylander from the dropdown menu. The skylanders listed in the dropdown are from the "[Skylanders Ultimate NFC Pack](https://docs.google.com/document/d/1M3CXm2UcXLo1kuhYmAAtitfPJUJoyL47Ey95BYIt-Z0/edit?usp=sharing)" (V5), so pretty much the best dumps out there you can find.
 ![02. UID and Dumps Dropdown](https://raw.githubusercontent.com/t3hsuppli3r/SkyUID-Generator-GUI/main/img/02.%20UID%20and%20Dumps%20Dropdown.jpg)
 
-10. The dump files are sorted with folders so you need to go inside them using the dropdown menu in order to select the dumps. If you made a mistake, just click on "<<Back"
+11. The dump files are sorted with folders so you need to go inside them using the dropdown menu in order to select the dumps. If you made a mistake, just click on "<<Back"
 
-11. After generating a UID specific dump file, you should see this 
+12. After generating a UID specific dump file, you should see this 
 ![04. Generating Dump with Specific UID](https://raw.githubusercontent.com/t3hsuppli3r/SkyUID-Generator-GUI/main/img/04.%20Generating%20Dump%20with%20Specific%20UID.jpg)
 
-12. Check you script main directory. In our example that's "**D:\Downloads\SkyUID-Generator-GUI-main**". There you should see your new dump file. For example "**UID_24A3C48A_Boomer.dump**"
+13. Check you script main directory. In our example that's "**D:\Downloads\SkyUID-Generator-GUI-main**". There you should see your new dump file. For example "**UID_24A3C48A_Boomer.dump**"
 
-13. That's it. This new dump file will be adjusted for the specific UID that you have provided it. Now flash it onto your card with MWT or whatever you are using.
+14. That's it. This new dump file will be adjusted for the specific UID that you have provided it. Now flash it onto your card with MWT or whatever you are using.
 ----------------------------------------
 
 ### Special thanks to:
