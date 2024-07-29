@@ -15,11 +15,13 @@ It's helpful if you have NFC UID locked cards (Sector 0, Block 0 Read-Only) and 
 
 **How to run it:**
 
-1. Install Python from here: https://www.python.org/downloads/. Get the latest version.
+1. Install Python from here: **https://www.python.org/downloads/**. Get the latest version.
 
-2. Back to GitHub - Click on the green "**<> Code**" button on the upper right and then "**Download ZIP**".
-Additionally, you can also go to "**Releases**" on the right side of the screen and then download the "**SkyUID-Generator-GUI-1.0.zip**".
+2. Back to GitHub - Click on the green "**<> Code**" button on the upper right and then "**![Download ZIP](https://github.com/skylandersNFC/SkyUID-Generator-GUI/archive/refs/heads/main.zip)**".
+Additionally, you can also go to "**![Releases](https://github.com/skylandersNFC/SkyUID-Generator-GUI/releases/)**" on the right side of the screen and then download the "**SkyUID-Generator-GUI-1.0.zip**".
 It's the same thing.
+
+
 
 3. Extract the archive somewhere, let's say "**D:\Downloads\SkyUID-Generator-GUI-main**" (for example)
    
