@@ -39,7 +39,7 @@ It's helpful if you have NFC UID locked cards (Sector 0, Block 0 Read-Only) and 
 
 9. **Check the main directory**. There you should see your **new dump file**. For example "**UID_24A3C48A_Boomer.dump**"
 
-10. That's it. This new dump file will be adjusted f**or the specific UID** that you have provided it. **Now flash it onto your card** with MWT or whatever you are using.
+10. That's it. This new dump file will be **adjusted** for the **specific UID** that you have provided. Now **flash** it onto **your card** with MWT or whatever tool you are using. You **will get 63 out of 64** blocks written, and that's **perfectly fine**. The whole idea of SkyUID is that **we don't touch Sector 0, Block 0** on the card (since it's Read-Only), but we **adjust the rest of the data** in the dump file so it can be synchronized with the already existing **Sector 0, Block 0 (UID block)** on the card.
 ----------------------------------------
 
 ### Special thanks to:
