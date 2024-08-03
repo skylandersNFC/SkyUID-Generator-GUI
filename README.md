@@ -1,6 +1,6 @@
 ----------------------------------------
 
-# SkyUID Generator GUI
+# SkyUID Generator
 
 *Disclaimer: **This script won't work for Imaginators dumps, only from SSA to SSC.**
 
@@ -15,7 +15,7 @@ It's helpful if you have NFC UID locked cards (Sector 0, Block 0 Read-Only) and 
 
 **How to run it:**
 
-1. **SkyUID-Generator-GUI** now has an **EXE compiled** version with **PyInstaller**, which means you **don't need Python installed to run it**.
+1. **SkyUID-Generator** now has an **EXE compiled** version with **PyInstaller**, which means you **don't need Python installed to run it**.
 
 2. Download the **Windows** version for "**![Releases](https://github.com/skylandersNFC/SkyUID-Generator-GUI/releases/)**" (SkyUID-Generator-GUI-Windows.zip)
 
