@@ -4,6 +4,14 @@
 
 *Disclaimer: **This script won't work for Imaginators dumps, only from SSA to SSC.**
 
+_Imaginator dumps need to be an exact copy of the original dumps, meaning you need to copy all 64 blocks from the original dump to your card.
+If you are here, you probably have UID-locked cards, which means you can write 63 out of 64 blocks but not the UID block.
+That's why you are using the SkyUID Generator to regenerate those 63 blocks from the original dump to align with your card's UID.
+However, with Imaginators, we cannot regenerate anything since those dumps have an extra protection layer in the form of four additional signature blocks.
+In order for these to work, you need to write all 64 blocks exactly as they are. You cannot adjust or generate anything.
+Since you can only write 63 blocks with your UID-locked cards, you will have a 98% written dump, but never 100%.
+And the Imaginators game won't accept 98%._
+
 ----------------------------------------
 **What is this:**
 
